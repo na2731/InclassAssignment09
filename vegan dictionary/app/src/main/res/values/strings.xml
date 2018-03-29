@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vegan Dictionary</string>
+    <string name="Button">SELECT</string>
+    <string name="food1">Cookie</string>
+    <string name="food2">Fries</string>
+    <string name="food3">Hamburger</string>
+    <string name="food4">Cola</string>
+    <string name="food5">Chicken</string>
+</resources>
