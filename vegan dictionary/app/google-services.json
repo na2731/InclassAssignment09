@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "655288051858",
+    "firebase_url": "https://vegan-dictionary.firebaseio.com",
+    "project_id": "vegan-dictionary",
+    "storage_bucket": "vegan-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655288051858:android:f09b4ff8c5e67a10",
+        "android_client_info": {
+          "package_name": "com.example.android.geoquizcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655288051858-j3uju1vsljsr3ua6e1nu6rt46pn8a7c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.geoquizcard",
+            "certificate_hash": "734a394e022837da449d0d7699f216f6e4319de0"
+          }
+        },
+        {
+          "client_id": "655288051858-s88gtoqjtmie5dfg4c9vg00qh2brm7ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCELYMlDm1IFY1ttls8_UKRxEVcazaBqfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655288051858-s88gtoqjtmie5dfg4c9vg00qh2brm7ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
